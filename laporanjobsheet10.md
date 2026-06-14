@@ -45,6 +45,45 @@ Jika masih ada data, front digeser ke elemen berikutnya.
 
 <img width="576" height="641" alt="image" src="https://github.com/user-attachments/assets/1b49682e-d6c2-4365-adf9-b4bc38443ea7" />
 
+<img width="658" height="592" alt="image" src="https://github.com/user-attachments/assets/fb38d9f7-bbe2-4a43-856a-35f3e6ba448f" />
+
+
+## OUTPUT
+
+<img width="318" height="861" alt="image" src="https://github.com/user-attachments/assets/417c0d46-c3e3-4901-a4ac-93731aec1328" />
+
+<img width="296" height="741" alt="image" src="https://github.com/user-attachments/assets/1441e715-f0ac-4c47-842a-580cdd9bc9d8" />
+
+## PERTANYAAN
+
+<img width="428" height="152" alt="image" src="https://github.com/user-attachments/assets/d16db0da-94ac-46aa-b282-d2c52ae526c0" />
+
+<img width="536" height="192" alt="image" src="https://github.com/user-attachments/assets/c3394417-1071-4ed6-a595-a003304a42d3" />
+
+## TUGAS
+
+<img width="702" height="480" alt="image" src="https://github.com/user-attachments/assets/95a48925-f333-4cd2-8679-5cd1cf4d1774" />
+
+<img width="541" height="981" alt="image" src="https://github.com/user-attachments/assets/0a0e57a1-718f-46cc-a3ee-87af45eed206" />
+
+<img width="522" height="987" alt="image" src="https://github.com/user-attachments/assets/b6e9e011-459e-4174-9af6-2990d5aeecda" />
+
+<img width="538" height="460" alt="image" src="https://github.com/user-attachments/assets/138ac466-0a8a-4be4-9ea1-3c8d05f38b6a" />
+
+<img width="520" height="995" alt="image" src="https://github.com/user-attachments/assets/0210d563-765e-463c-a89f-1e0cf28ce7be" />
+
+<img width="501" height="992" alt="image" src="https://github.com/user-attachments/assets/9a94f142-4517-4882-a12e-c814e4511ac1" />
+
+
+## OUTPUT
+
+<img width="302" height="928" alt="image" src="https://github.com/user-attachments/assets/01b951c0-61f8-4414-ae67-e54520103408" />
+
+<img width="293" height="966" alt="image" src="https://github.com/user-attachments/assets/b13412f7-3782-4e66-9f1b-3646875e5394" />
+
+<img width="593" height="983" alt="image" src="https://github.com/user-attachments/assets/17a62d5c-5cec-4047-b2fb-09c9285f1d10" />
+
+
 
 
 
